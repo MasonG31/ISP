@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Curses",
+        "repositoryURL": "https://github.com/TheCoderMerlin/Curses.git",
+        "state": {
+          "branch": null,
+          "revision": "1290eb90a3fbb9ae9478ce44aaccf2c50ed20926",
+          "version": "1.0.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
